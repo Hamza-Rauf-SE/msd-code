@@ -1,7 +1,7 @@
 # ===================================================================
 # 1. Imports 
 # ===================================================================
-# pip install -q unsloth bitsandbytes "trl<0.9.0" accelerate datasets
+# pip install -q unsloth "trl<0.9.0" accelerate datasets
 # pip install -q scikit-learn matplotlib seaborn pandas tqdm
 
 # huggingface-cli login

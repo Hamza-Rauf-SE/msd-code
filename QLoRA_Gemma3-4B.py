@@ -1,7 +1,5 @@
-# pip install unsloth
-# pip install --no-deps bitsandbytes
-# pip install "trl<0.9.0" accelerate
-# pip install scikit-learn matplotlib seaborn
+# pip install -q unsloth "trl<0.9.0" accelerate datasets
+# pip install -q scikit-learn matplotlib seaborn pandas tqdm
 # 1. Imports
 import os
 import torch
